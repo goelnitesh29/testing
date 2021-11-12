@@ -1,4 +1,5 @@
-package .requests;
+package requests;
+
 
 import com.hackerrank.test.utility.Order;
 import com.hackerrank.test.utility.OrderedTestRunner;
